@@ -1,0 +1,153 @@
+/*------------------------------------*\
+    RESET
+\*------------------------------------*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+    v2.0b1 | 201101 
+    NOTE:WORK IN PROGRESS
+    USE WITH CAUTION AND TEST WITH ABANDON */
+
+html,body,div,span,applet,object,iframe,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,
+a,abbr,acronym,address,big,cite,code,
+del,dfn,em,img,ins,kbd,q,s,samp,
+small,strike,strong,sub,sup,tt,var,
+b,u,i,center,
+dl,dt,dd,ol,ul,li,
+fieldset,form,label,legend,
+table,caption,tbody,tfoot,thead,tr,th,td,
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary,
+time,mark,audio,video{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section{
+    display:block;
+}
+body{
+    line-height:1;
+}
+ol,ul{
+    list-style:none;
+}
+blockquote,q{
+    quotes:none;
+}
+blockquote:before,blockquote:after,
+q:before,q:after{
+    content:’’;
+    content:none;
+}
+/* remember to define visible focus styles! 
+:focus{
+    outline:?????;
+} */
+
+/* remember to highlight inserts somehow! */
+ins{
+    text-decoration:none;
+}
+del{
+    text-decoration:line-through;
+}
+
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+
+
+
+
+/*------------------------------------*\
+    $MAIN
+\*------------------------------------*/
+
+body, html {
+	height: 100%;
+	width: 100%;
+    font-family: 'Source Code Pro', "Courier New", Courier, monospace ;
+    color: #fff;
+    font-size: 17px;
+}
+
+
+p {
+    margin-bottom: 1.4em;
+    line-height: 1.3em;
+}
+
+.gradient-1 {
+	background: #3fcdc5; /* Old browsers */
+background: -moz-linear-gradient(top,  #3fcdc5 0%, #dbf1b2 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3fcdc5), color-stop(100%,#dbf1b2)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #3fcdc5 0%,#dbf1b2 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #3fcdc5 0%,#dbf1b2 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #3fcdc5 0%,#dbf1b2 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #3fcdc5 0%,#dbf1b2 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3fcdc5', endColorstr='#dbf1b2',GradientType=0 ); /* IE6-9 */
+}
+
+.gradient-1 {
+	background: #6351a3; /* Old browsers */
+background: -moz-linear-gradient(top,  #6351a3 0%, #ff816a 71%, #ffc661 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6351a3), color-stop(71%,#ff816a), color-stop(100%,#ffc661)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #6351a3 0%,#ff816a 71%,#ffc661 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #6351a3 0%,#ff816a 71%,#ffc661 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #6351a3 0%,#ff816a 71%,#ffc661 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #6351a3 0%,#ff816a 71%,#ffc661 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6351a3', endColorstr='#ffc661',GradientType=0 ); /* IE6-9 */
+
+}
+
+.portfolio-list {
+    
+}
+
+.portfolio-list li {
+
+
+}
+
+.portfolio-list li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    font-size: 2em;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.66);
+    
+    background: -moz-linear-gradient(top,  rgba(255,255,255,0) 1%, rgba(255,255,255,0) 37%, rgba(255,255,255,0.1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(255,255,255,0)), color-stop(37%,rgba(255,255,255,0)), color-stop(100%,rgba(255,255,255,0.1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 1%,rgba(255,255,255,0) 37%,rgba(255,255,255,0.1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(255,255,255,0) 1%,rgba(255,255,255,0) 37%,rgba(255,255,255,0.1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(255,255,255,0) 1%,rgba(255,255,255,0) 37%,rgba(255,255,255,0.1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(255,255,255,0) 1%,rgba(255,255,255,0) 37%,rgba(255,255,255,0.1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#1affffff',GradientType=0 ); /* IE6-9 */
+}
+
+
+section.portfolio-item {
+    padding: 30px;
+    width: 100%;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.66);
+}
+
+.portfolio-item article {
+    width: 100%;
+    max-width: 500px;
+}
+
+/*------------------------------------*\
+    $MAIN
+\*------------------------------------*/
