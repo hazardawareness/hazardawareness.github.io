@@ -1,0 +1,107 @@
+@import "fonts";
+
+* { 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	*behavior: url(/scripts/boxsizing.htc); 
+	/*	If you need support for IE7 and lower make 
+		sure the boxsizing.htc file is linked properly.
+		More info here:  https://github.com/Schepp/box-sizing-polyfill */
+}
+
+
+.container:after,
+.row:after, 
+.col:after, 
+.clr:after, 
+.group:after,
+section:after { 
+	content: ""; 
+	display: table; 
+	clear: both; 
+}
+
+.container,
+.container-large {
+	width: 100%;
+	max-width: 690px;
+	margin: 0 auto 50px;
+    padding: 0 20px;
+}
+
+.container-large {
+    max-width: 940px
+}
+
+.project {
+    width: 100%;
+    font-size: 0.9em;
+    margin-bottom: 1.2em;
+    
+    h3 {
+        text-align: center;
+    }
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border: solid 4px #f2f2f2;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.project > img:after {
+    
+}
+
+.project-thumb {
+    width: 48%;
+    margin-right: 4%;
+    float: left;
+    
+}
+    
+.project-thumb:nth-of-type(2n) {
+     margin-right: 0;
+}
+
+.feature-project.project-show {
+    width: 100%;
+    transition: all 200ms ease;
+    
+    .read-more {
+        max-width: 700px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+}
+
+@media (min-width: 650px) {
+    .feature-project {
+        width: 48%;
+        margin-right: 4%;
+        float: left;
+    }
+    
+    .feature-project:nth-of-type(2n) {
+        margin-right: 0;
+    }
+    
+    .project-thumb {
+        width: 22%;
+        margin-right: 4%;
+        float: left;
+    }
+    
+    .project-thumb:nth-of-type(2n) {
+     margin-right: 4%;
+}
+    
+    .project-thumb:nth-of-type(4n) {
+        margin-right: 0;
+    }
+}
+

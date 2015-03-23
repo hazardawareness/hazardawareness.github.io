@@ -1,0 +1,16 @@
+@import "fonts";
+
+.blog-header {
+    background-image: url(/images/pattern.png), url(/images/blog-image-colour.jpg) ;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll;
+    background-size: 90px, cover;
+}
+
+time {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    color: $secondary-colour;
+    margin-bottom: 1em;
+}
