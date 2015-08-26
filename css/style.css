@@ -90,13 +90,16 @@ h1, h2, h3, h4 {
 h1, h2, .text-center {
   text-align: center; }
 
-h1.title {
+h1 {
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  font-size: 4em;
-  color: #fff;
+  font-size: 2.2em;
   font-style: italic;
-  margin-bottom: 0.75em; }
+  margin-bottom: 0.75em;
+  color: #d1445f; }
+  h1 .title {
+    font-size: 4em;
+    color: #fff; }
 
 h2 {
   color: #405376;
@@ -200,12 +203,14 @@ section:after {
     margin-right: auto; }
 
 @media (min-width: 650px) {
-  .feature-project {
+  .feature-project,
+  .service {
     width: 48%;
     margin-right: 4%;
     float: left; }
 
-  .feature-project:nth-of-type(2n) {
+  .feature-project:nth-of-type(2n),
+  .service:nth-of-type(2n) {
     margin-right: 0; }
 
   .project-thumb {
@@ -239,13 +244,16 @@ h1, h2, h3, h4 {
 h1, h2, .text-center {
   text-align: center; }
 
-h1.title {
+h1 {
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  font-size: 4em;
-  color: #fff;
+  font-size: 2.2em;
   font-style: italic;
-  margin-bottom: 0.75em; }
+  margin-bottom: 0.75em;
+  color: #d1445f; }
+  h1 .title {
+    font-size: 4em;
+    color: #fff; }
 
 h2 {
   color: #405376;
@@ -310,13 +318,16 @@ h1, h2, h3, h4 {
 h1, h2, .text-center {
   text-align: center; }
 
-h1.title {
+h1 {
   font-family: 'Merriweather', serif;
   font-weight: 900;
-  font-size: 4em;
-  color: #fff;
+  font-size: 2.2em;
   font-style: italic;
-  margin-bottom: 0.75em; }
+  margin-bottom: 0.75em;
+  color: #d1445f; }
+  h1 .title {
+    font-size: 4em;
+    color: #fff; }
 
 h2 {
   color: #405376;
@@ -498,8 +509,14 @@ header {
   float: left;
   max-width: 12em;
   height: auto;
-  margin: 0 1em 0.8em -3em;
-  border: solid 4px #ccc; }
+  margin: 0 1em 0.8em -3em; }
+
+/***************   Services   ***************/
+.service {
+  text-align: center;
+  margin-bottom: 1.5em; }
+  .service p {
+    font-size: 0.95em; }
 
 /***************   FORM   ***************/
 form {

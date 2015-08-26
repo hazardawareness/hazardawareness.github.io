@@ -159,10 +159,20 @@ header {
     max-width: 12em;
     height: auto;
     margin: 0 1em 0.8em -3em;
-    border: solid 4px #ccc;
 }
 
 
+/***************   Services   ***************/
+
+
+.service {
+    text-align: center;
+    margin-bottom: 1.5em;
+    
+    p {
+        font-size: 0.95em;
+    }
+}
 
 /***************   FORM   ***************/
 
