@@ -19,10 +19,14 @@ header {
 }
 
 .home-header {
-    background-image: url(/images/pattern.png), url(/images/home-page-image-2-colour.jpg) ;
-    background-repeat: repeat, no-repeat;
+    background-image: url(/images/home-page-image-2-colour.jpg) ;
+    background-repeat: no-repeat;
     background-attachment: scroll;
-    background-size: 90px, cover;
+    background-size: cover;
+}
+
+.home-header.services {
+    background-image: url(/images/services-bg.jpg) ;
 }
 
 .home-header-background-img {
@@ -130,6 +134,10 @@ header {
 .home-logo {
     display: block; 
     margin: 0 auto 2em;
+}
+
+.small-logo {
+    max-width: 100px;
 }
 
 .header-intro {
