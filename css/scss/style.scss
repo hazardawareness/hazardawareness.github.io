@@ -20,7 +20,9 @@ header {
 
 .home-header {
 /* grad-5 copy 2: */
-background-image: linear-gradient(-180deg, #60346E 0%, #A70063 15%, #A70063 24%, #D1445F 33%, #E36666 39%, #375DA2 39%, #1A3462 100%);
+background-image: url(/images/home-gradient-bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .home-header.services {

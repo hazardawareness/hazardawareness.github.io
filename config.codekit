@@ -356,6 +356,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/client-wordpress\/wordpress-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54134,
+		"inputAbbreviatedPath": "\/client-wordpress\/wordpress-background.jpg",
+		"outputAbbreviatedPath": "\/client-wordpress\/wordpress-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/client-wordpress\/wordpress-backgrounda.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 807322,
+		"inputAbbreviatedPath": "\/client-wordpress\/wordpress-backgrounda.png",
+		"outputAbbreviatedPath": "\/client-wordpress\/wordpress-backgrounda.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/scss\/_blog.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
