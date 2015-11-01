@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="366px" height="277px" viewBox="0 0 366 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
-    <title>grad-5 copy 9</title>
+<svg width="1400px" height="650px" viewBox="0 0 1400 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>home-gradient-bg</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#338BA3" offset="0%"></stop>
-            <stop stop-color="#B8BD9E" offset="16.2076549%"></stop>
+            <stop stop-color="#139D7F" offset="0%"></stop>
+            <stop stop-color="#A9CEC8" offset="16.2076549%"></stop>
             <stop stop-color="#E6CB96" offset="28.1959854%"></stop>
             <stop stop-color="#F29571" offset="38.9525341%"></stop>
-            <stop stop-color="#8B4153" offset="38.9718192%"></stop>
-            <stop stop-color="#3C636D" offset="42.5494026%"></stop>
-            <stop stop-color="#314B61" offset="72.4210778%"></stop>
-            <stop stop-color="#102538" offset="100%"></stop>
+            <stop stop-color="#41748B" offset="38.9842181%"></stop>
+            <stop stop-color="#497682" offset="42.5494026%"></stop>
+            <stop stop-color="#3772A2" offset="72.4210778%"></stop>
+            <stop stop-color="#022E56" offset="100%"></stop>
         </linearGradient>
-        <radialGradient cx="51.4600396%" cy="38.3038132%" fx="51.4600396%" fy="38.3038132%" r="43.1704084%" id="radialGradient-2">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#E9B079" offset="28.5654496%"></stop>
-            <stop stop-color="#692017" offset="100%"></stop>
+        <radialGradient cx="50%" cy="39.123339%" fx="50%" fy="39.123339%" r="31.1905752%" id="radialGradient-2">
+            <stop stop-color="#F8E166" stop-opacity="0.352836277" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </radialGradient>
-        <rect id="path-3" x="0" y="0" width="366" height="277"></rect>
+        <radialGradient cx="51.4600396%" cy="38.3038132%" fx="51.4600396%" fy="38.3038132%" r="42.4746645%" id="radialGradient-3">
+            <stop stop-color="#FF8300" offset="0%"></stop>
+            <stop stop-color="#C53605" stop-opacity="0.771088089" offset="29.5320472%"></stop>
+            <stop stop-color="#3C1104" stop-opacity="0.557433197" offset="60.4691486%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.59876019" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-4" x="0" y="0" width="1400" height="650"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="grad-5-copy-9">
-            <use fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
-            <use fill-opacity="0.569999993" fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="home-gradient-bg">
+                <use fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                <use fill="url(#radialGradient-2)" xlink:href="#path-4"></use>
+                <use fill-opacity="0.519999981" fill="url(#radialGradient-3)" xlink:href="#path-4"></use>
+            </g>
         </g>
     </g>
 </svg>

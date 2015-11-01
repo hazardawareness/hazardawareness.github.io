@@ -948,6 +948,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/home-gradient-bg-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45321,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg-2.jpg",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-gradient-bg-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445401,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg-2.png",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-gradient-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9150,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg.jpg",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/home-gradient-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 694938,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg.png",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/home-page-image-2-colour.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1098,6 +1142,28 @@
 		"initialSize": 177344,
 		"inputAbbreviatedPath": "\/images\/services-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/services-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services-gradient-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82234,
+		"inputAbbreviatedPath": "\/images\/services-gradient-bg.jpg",
+		"outputAbbreviatedPath": "\/images\/services-gradient-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services-gradient-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 668371,
+		"inputAbbreviatedPath": "\/images\/services-gradient-bg.png",
+		"outputAbbreviatedPath": "\/images\/services-gradient-bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
