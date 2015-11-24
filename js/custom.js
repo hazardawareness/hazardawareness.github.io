@@ -66,20 +66,30 @@ $('body').on('click', ".read-less-link", function(){
 
 var headerHeight = ($('header.main-header').height() - 20 );
 
-
-// Hide Menu On Scroll
-
 $(window).on("scroll touchmove", function () {
-  $('#navigation').toggleClass('hide-menu', $(document).scrollTop() > 50);
-  $('#navigation').toggleClass('nav-dark', $(document).scrollTop() > headerHeight);
+  $('#show-menu').toggleClass('nav-dark', $(document).scrollTop() > headerHeight);
 });
 
 
-// Toggle Menu On Click
 
-var topClick = $('<span class="menu-click-area"></span>');
-$('body').append(topClick);
+// Show / Hide Menu
 
-$('.menu-click-area').click(function(){
-    $('#navigation').toggleClass('hide-menu');
+$('#show-menu').on("click", function() {
+    $('#navigation').toggleClass('show-menu');
+});
+
+$('.hide-menu').on("click", function() {
+    $('#navigation').removeClass('show-menu');
+})
+
+
+// Slick slider on portfolio pages
+
+$('.slick-slider').slick({
+    dots: false,
+    infinite: true,
+    speed: 300,
+    centerMode: true,
+    centerPadding: '60px',
+    variableWidth: true
 });

@@ -6,6 +6,17 @@
 $brand-colour: #405376;
 $secondary-colour: #d1445f;
 
+/*  Colours  */
+
+.pink-bg {
+    background-color: $secondary-colour;
+    color: #fff;
+    
+    h2, h3 {
+        color: #fff;
+    }
+}
+
 body {
     font-family: 'Merriweather', serif;
     font-weight: 300;
@@ -96,4 +107,30 @@ nav {
 ::selection {
     background-color: $brand-colour;
     color: #ffffff;
+}
+
+blockquote {
+    border-left: solid 4px #cecece;
+    padding-left: 2em;
+    max-width: 620px;
+    margin-bottom: 1.4em;
+    
+    p {
+        font-weight: 300;
+        font-style: italic;
+        font-size: 1.2em;
+        color: #959595;
+        margin-bottom: 0.8em;
+    }
+    
+    footer {
+        color: $secondary-colour;
+        font-size: 0.9em;
+    }
+}
+
+@media (min-width: 1000px) {
+    blockquote {
+        margin-left: -4em;
+    }
 }
