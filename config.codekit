@@ -1294,6 +1294,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/portfolio-excelsa-painting.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29070,
+		"inputAbbreviatedPath": "\/images\/portfolio-excelsa-painting.png",
+		"outputAbbreviatedPath": "\/images\/portfolio-excelsa-painting.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/portfolio-melody-wheels.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1323,6 +1334,193 @@
 		"initialSize": 83095,
 		"inputAbbreviatedPath": "\/images\/profile-pic.jpg",
 		"outputAbbreviatedPath": "\/images\/profile-pic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/melody-components.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54926,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/melody-gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93895,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/melody-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27303,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/melody-wheel-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22429,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/melody-wheels.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50869,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-apparel-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15245,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-apparel-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-apparel-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19471,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-nutola-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24962,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-nutola.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17366,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-whey-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17577,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/mha-whey-product-detail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35265,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-product-detail.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-product-detail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-calculator.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31774,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-calculator.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-calculator.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-faqs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49839,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-faqs.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-faqs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50750,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-product-detail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55917,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product-detail.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product-detail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-product.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37477,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/project-gallery\/soilyourself-products.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77006,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-products.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-products.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1439,10 +1637,19 @@
 		},
 	"\/index.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.kit",
+		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

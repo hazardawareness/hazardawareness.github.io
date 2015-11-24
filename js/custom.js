@@ -75,11 +75,11 @@ $(window).on("scroll touchmove", function () {
 // Show / Hide Menu
 
 $('#show-menu').on("click", function() {
-    $('#navigation').toggleClass('show-menu');
+    $('#navigation').fadeIn();
 });
 
 $('.hide-menu').on("click", function() {
-    $('#navigation').removeClass('show-menu');
+    $('#navigation').fadeOut();
 })
 
 
@@ -90,6 +90,6 @@ $('.slick-slider').slick({
     infinite: true,
     speed: 300,
     centerMode: true,
-    centerPadding: '60px',
+    centerPadding: '80px',
     variableWidth: true
 });

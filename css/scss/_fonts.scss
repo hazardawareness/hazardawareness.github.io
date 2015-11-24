@@ -1,10 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Serif);
-@import url(http://fonts.googleapis.com/css?family=Signika:300);
-@import url(http://fonts.googleapis.com/css?family=Merriweather:400,900,300italic,300,900italic);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,500);
 
 $brand-colour: #405376;
 $secondary-colour: #d1445f;
+$website-font-stack: 'TheSansMono', 'Roboto Mono', monospace;
 
 /*  Colours  */
 
@@ -18,9 +16,11 @@ $secondary-colour: #d1445f;
 }
 
 body {
-    font-family: 'Merriweather', serif;
+    // font-family: 'Merriweather', serif;
+    font-family: $website-font-stack;
     font-weight: 300;
     font-size: 18px;
+    line-height: 1.3em;
     color: #656565;
 }
 
@@ -34,8 +34,10 @@ a:active {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Signika', sans-serif;
-    font-weight: 300;
+    // font-family: 'Signika', sans-serif;
+    font-family: $website-font-stack;
+    font-weight: 500;
+    line-height: 1.3em;
 }
 
 h1, h2, .text-center {
@@ -43,11 +45,9 @@ h1, h2, .text-center {
 }
 
 h1 {
-    font-family: 'Merriweather', serif;
-    font-weight: 900;
+    // font-family: 'Merriweather', serif;
     font-size: 2.2em;
-    font-style: italic;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.2em;
     color: $secondary-colour;
     
     .title {
@@ -70,7 +70,8 @@ h3 {
 }
 
 p {
-    font-family: 'Merriweather', serif;
+    // font-family: 'Merriweather', serif;
+    font-family: $website-font-stack;
     margin-bottom: 1.4em;
     line-height: 1.5em;
 }
@@ -82,7 +83,6 @@ p:last-child {
 p a:link {
     text-decoration: underline;
     color:  $secondary-colour;
-    font-style: italic;
 }
 
 p a:hover {
@@ -94,7 +94,7 @@ p a:hover {
 }
 
 nav {
-    font-family: 'Signika', sans-serif;
+    font-family: $website-font-stack;
     font-weight: 300;
     color: #fff;
 }
@@ -117,7 +117,6 @@ blockquote {
     
     p {
         font-weight: 300;
-        font-style: italic;
         font-size: 1.2em;
         color: #959595;
         margin-bottom: 0.8em;

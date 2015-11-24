@@ -37,7 +37,7 @@ form {
     max-width: 550px;
     margin: 10px auto;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: $website-font-stack;
 }
 
 input,
@@ -47,7 +47,7 @@ textarea {
     width: 100%;
     margin: 5px auto;
     border: solid 1px #ccc;
-    font-family: 'Merriweather', serif;
+    font-family: $website-font-stack;
     font-weight: 300;
     color: $brand-colour;
     transition: all 0.30s ease-in-out;
@@ -67,6 +67,7 @@ textarea:focus {
 
 input[type="submit"] {
     padding: 0.5em;
+    font-weight: 500;
     background-color: $brand-colour;
     border: none;
     color: #fff;
@@ -192,7 +193,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 
 .slick-slider {
     background-color: #EBEBEB;
-    padding: 10px 0;
+    padding: 20px 0;
     margin-bottom: 20px;
     position: relative;
     max-width: 100%;
@@ -203,14 +204,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
     margin: 0 20px;
     max-height: 400px;
     width: auto;
+    display: block;
 }
 
-.slick-slider.more-work-slider  {
-    max-height: 260px;
-    
-    span {
-        max-height: 240px;
-    }
+.slick-slider.more-work-slider span {
+    max-height: 240px;
 }
 
 .slick-slider span img {
