@@ -378,6 +378,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/client-wordpress\/wordpress-backgrounda.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 807322,
+		"inputAbbreviatedPath": "\/client-wordpress\/wordpress-backgrounda.png",
+		"outputAbbreviatedPath": "\/client-wordpress\/wordpress-backgrounda.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/scss\/_blog.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -403,6 +414,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/scss\/_fonts.scss",
 		"outputAbbreviatedPath": "\/css\/css\/_fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/css\/scss\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/scss\/_header.scss",
+		"outputAbbreviatedPath": "\/css\/css\/_header.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -471,7 +498,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 496,
+		"initialSize": 871,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -935,7 +962,51 @@
 		"outputAbbreviatedPath": "\/images\/blog-image-colour.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/excelsa-painting-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16069,
+		"inputAbbreviatedPath": "\/images\/excelsa-painting-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/excelsa-painting-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/green-horizons-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19212,
+		"inputAbbreviatedPath": "\/images\/green-horizons-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/green-horizons-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/harby-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7643,
+		"inputAbbreviatedPath": "\/images\/harby-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/harby-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hazardawareness-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6487,
+		"inputAbbreviatedPath": "\/images\/hazardawareness-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/hazardawareness-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/hazardawareness_sig.png": {
 		"fileType": 32768,
@@ -946,7 +1017,150 @@
 		"outputAbbreviatedPath": "\/images\/hazardawareness_sig.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/hero-image-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112446,
+		"inputAbbreviatedPath": "\/images\/hero-image-10.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163293,
+		"inputAbbreviatedPath": "\/images\/hero-image-2.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280097,
+		"inputAbbreviatedPath": "\/images\/hero-image-3.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187939,
+		"inputAbbreviatedPath": "\/images\/hero-image-4.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236933,
+		"inputAbbreviatedPath": "\/images\/hero-image-5.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275726,
+		"inputAbbreviatedPath": "\/images\/hero-image-6.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 313313,
+		"inputAbbreviatedPath": "\/images\/hero-image-7.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161110,
+		"inputAbbreviatedPath": "\/images\/hero-image-8.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/hero-image-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304093,
+		"inputAbbreviatedPath": "\/images\/hero-image-9.jpg",
+		"outputAbbreviatedPath": "\/images\/hero-image-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/home-gradient-bg-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45321,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg-2.jpg",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/home-gradient-bg-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445401,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg-2.png",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/home-gradient-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9150,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg.jpg",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/home-gradient-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 694938,
+		"inputAbbreviatedPath": "\/images\/home-gradient-bg.png",
+		"outputAbbreviatedPath": "\/images\/home-gradient-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/home-page-image-2-colour.jpg": {
 		"fileType": 16384,
@@ -957,29 +1171,18 @@
 		"outputAbbreviatedPath": "\/images\/home-page-image-2-colour.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/home-page-image-b+w.jpg": {
-		"fileType": 16384,
+	"\/images\/kings-bark-thumbs.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 213195,
-		"inputAbbreviatedPath": "\/images\/home-page-image-b+w.jpg",
-		"outputAbbreviatedPath": "\/images\/home-page-image-b+w.jpg",
+		"initialSize": 17521,
+		"inputAbbreviatedPath": "\/images\/kings-bark-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/kings-bark-thumbs.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/home-page-image-green-gradient.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 379961,
-		"inputAbbreviatedPath": "\/images\/home-page-image-green-gradient.jpg",
-		"outputAbbreviatedPath": "\/images\/home-page-image-green-gradient.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/large-crush.jpg": {
 		"fileType": 16384,
@@ -990,7 +1193,7 @@
 		"outputAbbreviatedPath": "\/images\/large-crush.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/large-diwilcox.jpg": {
 		"fileType": 16384,
@@ -1001,7 +1204,7 @@
 		"outputAbbreviatedPath": "\/images\/large-diwilcox.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/large-westcoast.jpg": {
 		"fileType": 16384,
@@ -1012,7 +1215,18 @@
 		"outputAbbreviatedPath": "\/images\/large-westcoast.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/lifecykel-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13879,
+		"inputAbbreviatedPath": "\/images\/lifecykel-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/lifecykel-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/mha-feature-project.png": {
 		"fileType": 32768,
@@ -1023,7 +1237,29 @@
 		"outputAbbreviatedPath": "\/images\/mha-feature-project.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/mha-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15128,
+		"inputAbbreviatedPath": "\/images\/mha-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/mha-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/mha-whey-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33531,
+		"inputAbbreviatedPath": "\/images\/mha-whey-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/mha-whey-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/mhawhey-logo-thumb.jpg": {
 		"fileType": 16384,
@@ -1034,7 +1270,7 @@
 		"outputAbbreviatedPath": "\/images\/mhawhey-logo-thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/mps-home.jpg": {
 		"fileType": 16384,
@@ -1045,7 +1281,7 @@
 		"outputAbbreviatedPath": "\/images\/mps-home.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/MPS-thumb.jpg": {
 		"fileType": 16384,
@@ -1056,7 +1292,7 @@
 		"outputAbbreviatedPath": "\/images\/MPS-thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/pattern.png": {
 		"fileType": 32768,
@@ -1067,7 +1303,40 @@
 		"outputAbbreviatedPath": "\/images\/pattern.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/portfolio-excelsa-painting.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29070,
+		"inputAbbreviatedPath": "\/images\/portfolio-excelsa-painting.png",
+		"outputAbbreviatedPath": "\/images\/portfolio-excelsa-painting.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio-melody-wheels.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61350,
+		"inputAbbreviatedPath": "\/images\/portfolio-melody-wheels.png",
+		"outputAbbreviatedPath": "\/images\/portfolio-melody-wheels.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio-soilyourself.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22679,
+		"inputAbbreviatedPath": "\/images\/portfolio-soilyourself.png",
+		"outputAbbreviatedPath": "\/images\/portfolio-soilyourself.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/profile-pic.jpg": {
 		"fileType": 16384,
@@ -1078,7 +1347,194 @@
 		"outputAbbreviatedPath": "\/images\/profile-pic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/project-gallery\/melody-components.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54926,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/melody-gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93895,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/melody-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27303,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/melody-wheel-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22429,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/melody-wheels.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50869,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-apparel-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15245,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-apparel-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-apparel-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19471,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-nutola-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24962,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-nutola.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17366,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-nutola.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-whey-illustration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17577,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-illustration.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-illustration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/mha-whey-product-detail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35265,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-product-detail.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/mha-whey-product-detail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-calculator.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31774,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-calculator.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-calculator.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-faqs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49839,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-faqs.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-faqs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50750,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-home.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-product-detail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55917,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product-detail.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product-detail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-product.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37477,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-product.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/project-gallery\/soilyourself-products.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77006,
+		"inputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-products.jpg",
+		"outputAbbreviatedPath": "\/images\/project-gallery\/soilyourself-products.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/project-thumb.png": {
 		"fileType": 32768,
@@ -1089,7 +1545,7 @@
 		"outputAbbreviatedPath": "\/images\/project-thumb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/services-bg.jpg": {
 		"fileType": 16384,
@@ -1100,7 +1556,29 @@
 		"outputAbbreviatedPath": "\/images\/services-bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/services-gradient-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82234,
+		"inputAbbreviatedPath": "\/images\/services-gradient-bg.jpg",
+		"outputAbbreviatedPath": "\/images\/services-gradient-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/services-gradient-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 668371,
+		"inputAbbreviatedPath": "\/images\/services-gradient-bg.png",
+		"outputAbbreviatedPath": "\/images\/services-gradient-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/sew-and-co.jpg": {
 		"fileType": 16384,
@@ -1111,18 +1589,51 @@
 		"outputAbbreviatedPath": "\/images\/sew-and-co.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/the-windsor-feature.jpg": {
+	"\/images\/soilyourself-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 149359,
-		"inputAbbreviatedPath": "\/images\/the-windsor-feature.jpg",
-		"outputAbbreviatedPath": "\/images\/the-windsor-feature.jpg",
+		"initialSize": 119964,
+		"inputAbbreviatedPath": "\/images\/soilyourself-1.jpg",
+		"outputAbbreviatedPath": "\/images\/soilyourself-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/soilyourself-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54697,
+		"inputAbbreviatedPath": "\/images\/soilyourself-2.jpg",
+		"outputAbbreviatedPath": "\/images\/soilyourself-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/soilyourself-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81569,
+		"inputAbbreviatedPath": "\/images\/soilyourself-3.jpg",
+		"outputAbbreviatedPath": "\/images\/soilyourself-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/tilerman-thumbs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13045,
+		"inputAbbreviatedPath": "\/images\/tilerman-thumbs.png",
+		"outputAbbreviatedPath": "\/images\/tilerman-thumbs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/wcb-thumb.jpg": {
 		"fileType": 16384,
@@ -1133,14 +1644,23 @@
 		"outputAbbreviatedPath": "\/images\/wcb-thumb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.kit",
+		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1158,7 +1678,7 @@
 	"\/js\/custom.js": {
 		"fileType": 64,
 		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/js\/custom.js",
 		"outputAbbreviatedPath": "\/js\/custom-min.js",
 		"outputPathIsOutsideProject": 0,
@@ -1166,25 +1686,149 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/min\/custom-min.js": {
-		"fileType": 64,
+	"\/kit-includes\/footer.html": {
+		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/custom-min.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/custom-min-min.js",
+		"inputAbbreviatedPath": "\/kit-includes\/footer.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit-includes\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit-includes\/footer.kit",
+		"outputAbbreviatedPath": "\/kit-includes\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit-includes\/header.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit-includes\/header.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit-includes\/header.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit-includes\/header.kit",
+		"outputAbbreviatedPath": "\/kit-includes\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit-includes\/navigation.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit-includes\/navigation.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit-includes\/navigation.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit-includes\/navigation.kit",
+		"outputAbbreviatedPath": "\/kit-includes\/navigation.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/services.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/services.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/services.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/services.kit",
+		"outputAbbreviatedPath": "\/services.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/slick\/slick-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/slick\/slick-theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick-theme.scss",
+		"outputAbbreviatedPath": "\/css\/slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/slick\/slick.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/slick\/slick.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick.js",
+		"outputAbbreviatedPath": "\/slick\/min\/slick-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/slick\/slick.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick.min.js",
+		"outputAbbreviatedPath": "\/slick\/min\/slick.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/slick\/slick.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/slick\/slick.scss",
+		"outputAbbreviatedPath": "\/css\/slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		},
 	"\/stratton\/Atom-Supply-Email.html": {
 		"fileType": 8192,
@@ -1219,6 +1863,60 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/test.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/melodywheels.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/melodywheels.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/melodywheels.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/melodywheels.kit",
+		"outputAbbreviatedPath": "\/work\/melodywheels.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/myhealthaddiction.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/myhealthaddiction.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/myhealthaddiction.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/myhealthaddiction.kit",
+		"outputAbbreviatedPath": "\/work\/myhealthaddiction.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/soilyourself.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/soilyourself.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/soilyourself.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/soilyourself.kit",
+		"outputAbbreviatedPath": "\/work\/soilyourself.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
@@ -1795,7 +2493,7 @@
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
 	"markdownCriticStyle": 0,
-	"markdownEnableFootnotes": 0,
+	"markdownEnableFootnotes": 1,
 	"markdownEnableLabels": 1,
 	"markdownEnableSmartQuotes": 1,
 	"markdownEscapeLineBreaks": 0,
