@@ -126,6 +126,9 @@ p a:link {
 p a:hover {
   color: #d1445f; }
 
+strong {
+  font-weight: 500; }
+
 .text-centre {
   text-align: center; }
 
@@ -212,7 +215,7 @@ section:after {
 .feature-project.project-show {
   width: 100%;
   -webkit-transition: all 200ms ease;
-          transition: all 200ms ease; }
+  transition: all 200ms ease; }
   .feature-project.project-show .read-more {
     max-width: 700px;
     margin-left: auto;
@@ -386,6 +389,9 @@ p a:link {
 p a:hover {
   color: #d1445f; }
 
+strong {
+  font-weight: 500; }
+
 .text-centre {
   text-align: center; }
 
@@ -491,7 +497,7 @@ header .container-large {
     text-align: center;
     margin: 2em auto;
     -webkit-transition: all 1s ease;
-            transition: all 1s ease;
+    transition: all 1s ease;
     font-size: 1.8em;
     color: #405376;
     cursor: pointer; }
@@ -595,6 +601,9 @@ p a:link {
 p a:hover {
   color: #d1445f; }
 
+strong {
+  font-weight: 500; }
+
 .text-centre {
   text-align: center; }
 
@@ -675,7 +684,7 @@ textarea {
   font-weight: 300;
   color: #405376;
   -webkit-transition: all 0.30s ease-in-out;
-          transition: all 0.30s ease-in-out;
+  transition: all 0.30s ease-in-out;
   outline: none; }
 
 textarea {
