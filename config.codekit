@@ -1830,6 +1830,24 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/start-up-eseries.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/start-up-eseries.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/start-up-eseries.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/start-up-eseries.kit",
+		"outputAbbreviatedPath": "\/start-up-eseries.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/stratton\/Atom-Supply-Email.html": {
 		"fileType": 8192,
 		"ignore": 0,
