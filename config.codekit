@@ -1228,6 +1228,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/melody-components.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46866,
+		"inputAbbreviatedPath": "\/images\/melody-components.jpg",
+		"outputAbbreviatedPath": "\/images\/melody-components.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/melody-gallery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93832,
+		"inputAbbreviatedPath": "\/images\/melody-gallery.jpg",
+		"outputAbbreviatedPath": "\/images\/melody-gallery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/melody-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27280,
+		"inputAbbreviatedPath": "\/images\/melody-home.jpg",
+		"outputAbbreviatedPath": "\/images\/melody-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/melody-wheel-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22391,
+		"inputAbbreviatedPath": "\/images\/melody-wheel-page.jpg",
+		"outputAbbreviatedPath": "\/images\/melody-wheel-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/melody-wheels.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50845,
+		"inputAbbreviatedPath": "\/images\/melody-wheels.jpg",
+		"outputAbbreviatedPath": "\/images\/melody-wheels.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/mha-feature-project.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1345,61 +1400,6 @@
 		"initialSize": 83095,
 		"inputAbbreviatedPath": "\/images\/profile-pic.jpg",
 		"outputAbbreviatedPath": "\/images\/profile-pic.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/images\/project-gallery\/melody-components.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54926,
-		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
-		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-components.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/images\/project-gallery\/melody-gallery.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93895,
-		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
-		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-gallery.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/images\/project-gallery\/melody-home.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27303,
-		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
-		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-home.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/images\/project-gallery\/melody-wheel-page.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 22429,
-		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
-		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheel-page.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/images\/project-gallery\/melody-wheels.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 50869,
-		"inputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
-		"outputAbbreviatedPath": "\/images\/project-gallery\/melody-wheels.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
