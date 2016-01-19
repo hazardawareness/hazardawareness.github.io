@@ -1228,6 +1228,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/low-2-features.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80421,
+		"inputAbbreviatedPath": "\/images\/low-2-features.jpg",
+		"outputAbbreviatedPath": "\/images\/low-2-features.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low-2-home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79028,
+		"inputAbbreviatedPath": "\/images\/low-2-home.jpg",
+		"outputAbbreviatedPath": "\/images\/low-2-home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-apnea-tables.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41409,
+		"inputAbbreviatedPath": "\/images\/low2-apnea-tables.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-apnea-tables.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-breath.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44294,
+		"inputAbbreviatedPath": "\/images\/low2-breath.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-breath.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-history-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46767,
+		"inputAbbreviatedPath": "\/images\/low2-history-2.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-history-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-history.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30421,
+		"inputAbbreviatedPath": "\/images\/low2-history.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-history.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-main.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35082,
+		"inputAbbreviatedPath": "\/images\/low2-main.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-main.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/low2-settings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43077,
+		"inputAbbreviatedPath": "\/images\/low2-settings.jpg",
+		"outputAbbreviatedPath": "\/images\/low2-settings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/melody-components.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1370,6 +1458,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/images\/portfolio-low2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12335,
+		"inputAbbreviatedPath": "\/images\/portfolio-low2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-low2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/images\/portfolio-melody-wheels.png": {
 		"fileType": 32768,
@@ -1881,6 +1980,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/test.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/low2.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/low2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/low2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/low2.kit",
+		"outputAbbreviatedPath": "\/work\/low2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
