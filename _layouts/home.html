@@ -5,9 +5,22 @@
 
   <body>
 
-    {% include header.html %}
+    
+    <header class="main-header home-header">
+        {% include nav.html %}
+        <section class="home-main-intro container-large">
+            <img src="/images/hazardawareness-site-logo-white-gradient.svg" class="home-logo">
+            <h1 class="title">hazardawareness</h1>
+            <p class="header-intro">Web design, branding, digital marketing and development tailor made for Perth's start-ups. Effective and efficient digital services that you can rely on.</p>
+        </section>    
+    </header>
+    
 
+    <div class="page-content">
+      <div class="wrapper">
         {{ content }}
+      </div>
+    </div>
 
     {% include footer.html %}
 

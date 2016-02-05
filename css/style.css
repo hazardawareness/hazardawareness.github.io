@@ -186,7 +186,8 @@ section:after {
   margin: 0 auto 50px;
   padding: 0 20px; }
 
-.container-large {
+.container-large,
+header .container-large {
   max-width: 940px; }
 
 .project {
@@ -729,8 +730,8 @@ input[type="submit"]:focus {
 
 .pink-form {
   padding-top: 40px; }
-  .pink-form p {
-    font-size: 15px; }
+  .pink-form p a {
+    color: #fff; }
   .pink-form input[type="submit"] {
     background-color: #8c2337; }
   .pink-form input[type="submit"]:hover {
