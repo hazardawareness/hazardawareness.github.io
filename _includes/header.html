@@ -1,0 +1,17 @@
+{% if page.hero_image %}
+   <header class="main-header home-header services" style="background-image: url( {{ page.hero_image | prepend: site.baseurl  }} );">
+{% else %}
+    <header class="main-header home-header services header-hero-2">
+{% endif %}
+    
+{% include nav.html %}
+        
+<section id="" class="home-main-intro container-large">
+           
+    <a href="/index.html"><img src="{{ "/images/hazardawareness-site-logo-white-gradient.svg" | prepend: site.baseurl }}" class="home-logo"></a>
+    {% if page.header_intro %}
+    <p class="header-intro">{{ page.header_intro }}</p>
+    {% endif %}
+</section>
+    
+</header>
