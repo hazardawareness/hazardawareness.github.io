@@ -8,10 +8,9 @@
 	<meta name="permalink" content="/work/:title.html"/>
 	<meta name="feature" content="/images/portfolio-melody-wheels.png"/>
 	<meta name="excerpt" content="Website build for Perth's best custom wheelbuilder. &lt;a href=&quot;&quot;&gt;Read more…&lt;/a&gt;"/>
+	<meta name="images" content="['melody-home.jpg', 'melody-gallery.jpg', 'melody-wheels.jpg', 'melody-components.jpg', 'melody-wheel-page.jpg']"/>
 </head>
 <body>
-
-<hr />
 
 <p>{::options parse_block_html=&#8220;true&#8221; /}
 <section class="container"></p>
@@ -26,13 +25,7 @@
 
 <p></section></p>
 
-<section class="full-width work-slider slick-slider">
-<span><img src="/images/melody-home.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-gallery.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-wheels.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-components.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-wheel-page.jpg" class="portfolio-image" alt=""></span>
-</section>
+<p>{% include project-slider.html %}</p>
 
 <section class="container ">
 

@@ -7,7 +7,7 @@ permalink: /work/:title.html
 header_intro: Project – Soil Yourself
 feature: /images/portfolio-soilyourself.png
 excerpt: Custom WordPress theme including online store and complex shipping/ordering theory. <a href="/work/soilyourself.html">Read more…</a>
-
+images: ['soilyourself-home.jpg', 'soilyourself-product-detail.jpg', 'mha-nutola.jpg', 'soilyourself-faqs.jpg', 'soilyourself-products.jpg', 'soilyourself-product.jpg', 'soilyourself-calculator.jpg']
 ---
 {::options parse_block_html="true" /}
 <section class="container">
@@ -22,14 +22,7 @@ Traditionally the trade supplies industry have been afraid of displaying prices 
 
 </section>
 
-<section class="full-width work-slider slick-slider">
-<span><img src="/images/project-gallery/soilyourself-home.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/project-gallery/soilyourself-product-detail.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/project-gallery/soilyourself-faqs.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/project-gallery/soilyourself-products.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/project-gallery/soilyourself-product.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/project-gallery/soilyourself-calculator.jpg" class="portfolio-image" alt=""></span>
-</section>
+{% include project-slider.html %}
 
 <section class="container">
 

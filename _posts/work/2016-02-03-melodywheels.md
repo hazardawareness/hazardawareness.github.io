@@ -5,7 +5,7 @@ categories: work featurework
 permalink: /work/:title.html
 feature: /images/portfolio-melody-wheels.png
 excerpt: Website build for Perth's best custom wheelbuilder. <a href="">Read more…</a>
-
+images: ['melody-home.jpg', 'melody-gallery.jpg', 'melody-wheels.jpg', 'melody-components.jpg', 'melody-wheel-page.jpg']
 ---
 {::options parse_block_html="true" /}
 <section class="container">
@@ -20,13 +20,7 @@ I had already had a pair of wheels build by Adrian at Melody Wheels and wanted t
 
 </section>
 
-<section class="full-width work-slider slick-slider">
-<span><img src="/images/melody-home.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-gallery.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-wheels.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-components.jpg" class="portfolio-image" alt=""></span>
-<span><img src="/images/melody-wheel-page.jpg" class="portfolio-image" alt=""></span>
-</section>
+{% include project-slider.html %}
 
 <section class="container ">
 

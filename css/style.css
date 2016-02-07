@@ -810,16 +810,16 @@ input[type="submit"]:focus {
   max-width: 100%;
   overflow: hidden; }
 
-.slick-slider span {
+.slick-slider li {
   margin: 0 20px;
   max-height: 400px;
   width: auto;
   display: block; }
 
-.slick-slider.more-work-slider span {
+.slick-slider.more-work-slider li {
   max-height: 240px; }
 
-.slick-slider span img {
+.slick-slider li img {
   max-height: 100%;
   width: auto; }
 
