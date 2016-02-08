@@ -1,29 +1,33 @@
 ---
 layout: default
 permalink: /articles/index.html
-header_intro: Articles about start up technology, design and services that I provide
+header_intro: Various articles and information to help clients, start-ups and small business owners
+hero_image: /images/hero-image-8.jpg
 ---
-
-<div class="home">
-
-
-<section id="about-me" class="container ">
-        <article class="">
+<section id="about-me" class="container container-large">
+      <div class="row gutters">
+         <article class="col span_8">
             <ul class="post-list">
             {% for post in site.posts %}
              {% if post.categories contains 'blog' %}
-              <li>
+              <li class="post-highlight">
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 
-                {{ post.excerpt }}
+                <p>{{ post.excerpt }}</p>
                   <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">+ Read More</a></p>
               </li>
               {% endif %}
             {% endfor %}
           </ul>
         </article>
-    </section>
-
-</div>
+         
+          <aside class="sidebar col span_4">
+           <ul>
+               <li>Start Up Tech Series</li>
+           </ul>
+       </aside>
+        
+      </div>
+</section>

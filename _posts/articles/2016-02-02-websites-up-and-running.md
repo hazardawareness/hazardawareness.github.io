@@ -1,9 +1,7 @@
 ---
-layout: article
 title:  "Email Series Part 3 - Websites"
 date:   2016-02-04 15:46:31 +0800
 categories: start-ups blog
-permalink: /articles/:title.html
 excerpt: Arguably the most important ********* to get right for any new business, your web presence should put your best foot forward.
 ---
 # Start Up Series Part 3 – Getting a website up and running

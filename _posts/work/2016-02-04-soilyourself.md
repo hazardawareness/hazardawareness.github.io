@@ -1,9 +1,7 @@
 ---
-layout: work
+hero_image: /images/hero-image-3.jpg
 title:  "Soil Yourself"
-date:   2016-02-04 15:46:31 +0800
 categories: work
-permalink: /work/:title.html
 header_intro: Project – Soil Yourself
 feature: /images/portfolio-soilyourself.png
 excerpt: Custom WordPress theme including online store and complex shipping/ordering theory. <a href="/work/soilyourself.html">Read more…</a>
@@ -11,7 +9,7 @@ images: ['soilyourself-home.jpg', 'soilyourself-product-detail.jpg', 'mha-nutola
 ---
 {::options parse_block_html="true" /}
 <section class="container">
- 
+
 # soilyourself.com.au
 
 Custom WordPress theme design and development for an online store.

@@ -1,12 +1,11 @@
 ---
-layout: work
 title:  "Melody Wheels"
 categories: work featurework
-permalink: /work/:title.html
 feature: /images/portfolio-melody-wheels.png
 excerpt: Website build for Perth's best custom wheelbuilder. <a href="">Read more…</a>
 images: ['melody-home.jpg', 'melody-gallery.jpg', 'melody-wheels.jpg', 'melody-components.jpg', 'melody-wheel-page.jpg']
 ---
+
 {::options parse_block_html="true" /}
 <section class="container">
 
@@ -26,7 +25,7 @@ I had already had a pair of wheels build by Adrian at Melody Wheels and wanted t
 
 Adrian wanted a simple and clean design which was perfect for letting the skill of his trade shine through. We built a custom page to easily display all wheels built as well as filter by cycling discipline. The site also had to be easy to use on a mobile and quick.
 
-If you want to build your brand and attract larger audiences contact me below and we can create your perfect website.</p>
+If you want to build your brand and attract larger audiences contact me below and we can create your perfect website.
 
 <a class="" href="http://www.melodywheels.com.au" target="_blank">View website&hellip;</a>
 

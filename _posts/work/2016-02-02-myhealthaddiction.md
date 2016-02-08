@@ -1,8 +1,6 @@
 ---
-layout: work
 title:  "My Health Addiction"
 categories: work featurework
-permalink: /work/:title.html
 feature: /images/mha-feature-project.png
 excerpt: A successful online store in a crowded market at a budget? <a href="/work/myhealthaddiction.html">Read more…</a>
 images: ['mha-home.jpg', 'mha-nutola-illustration.jpg', 'mha-nutola.jpg', 'mha-apparel-illustration.jpg', 'mha-whey-product-detail.jpg', 'mha-whey-illustration.jpg']
