@@ -1,11 +1,11 @@
 ---
-title:  "Email Series Part 1 – Domain Names"
+title:  "Your Digital Presence – Domain Names"
 date:   2016-02-04 15:46:31 +0800
-categories: start-ups blog
+categories: start-ups blog domain-names
 excerpt: If you are still in the planning stages of starting your own business then you know you'll need a website, emails another standard tech services. This three-part series breaks down exactly <strong>what</strong> you need, <strong>why</strong> you need it, <strong>where</strong> to get it and <strong>how</strong> much it should cost. 
 ---
 
-# Start up series
+### Your Digital Presence Series #1
 
 ## Introduction
 

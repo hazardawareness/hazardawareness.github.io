@@ -1,9 +1,11 @@
 ---
-title:  "Email Series Part 2 - Emails"
+title:  "Your Digital Presence - Emails"
 date:   2016-02-04 15:46:31 +0800
 categories: start-ups blog
 excerpt: Part 2 of the start up series is about getting your emails set up. yourname@company.com is more professional than @aol or @gmail. With the the quality and ease of set up for modern email service providers you can have your emails ready in no time.
 ---
+
+### Your Digital Presence Series #2
 
 # Start Up Part 2 – Getting your emails set up
 

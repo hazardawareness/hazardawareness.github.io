@@ -26,14 +26,14 @@ defaults:
       path: "_posts/work"
       
     values:
-      layout: "default"
+      layout: "work-template"
       permalink: "/work/:title.html"
       hero_image: "/images/hero-image-3.jpg"
   -
     scope:
-      path: "_posts/articles"
+      path: "_posts/notes"
       
     values:
-      layout: "article-template"
-      permalink: "/articles/:title.html"
+      layout: "notes-template"
+      permalink: "/notes/:title.html"
       hero_image: "/images/hero-image-8.jpg"

@@ -1,0 +1,45 @@
+---
+layout: default
+permalink: /notes/index.html
+header_intro: Various articles and information to help clients, start-ups and small business owners
+hero_image: /images/hero-image-8.jpg
+---
+<section id="about-me" class="container container-large">
+      <div class="row gutters">
+        <aside class="sidebar col span_3 blog-categories">
+          <h3>Note Categories</h3>
+           <ul id="article-category-filter" class="tag-box">
+           <li><a href="#post-highlight">All</a></li>
+            {% assign tags_list = site.categories %}  
+              {% if tags_list.first[0] == null %}
+                {% for tag in tags_list %}  
+                  <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+                {% endfor %}
+              {% else %}
+                {% for tag in tags_list %} 
+                  <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+                {% endfor %}
+              {% endif %}
+            {% assign tags_list = nil %}
+            </ul>
+       </aside>
+        
+         <article class="col span_9">
+            <ul id="article-list" class="post-list">
+            {% for post in site.posts %}
+             {% if post.categories contains 'blog' %}
+              <li class="post-highlight {{ post.categories | join: ' ' }}">
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                
+                <p>{{ post.excerpt }}</p>
+                  <p><a class="read-more-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </article>
+        
+      </div>
+</section>

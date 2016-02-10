@@ -2,7 +2,7 @@
 title:  "Melody Wheels"
 categories: work featurework
 feature: /images/portfolio-melody-wheels.png
-excerpt: Website build for Perth's best custom wheelbuilder. <a href="">Read more…</a>
+excerpt: Website build for Perth's best custom wheelbuilder. <a href="/work/melodywheels.html">Read more…</a>
 images: ['melody-home.jpg', 'melody-gallery.jpg', 'melody-wheels.jpg', 'melody-components.jpg', 'melody-wheel-page.jpg']
 ---
 

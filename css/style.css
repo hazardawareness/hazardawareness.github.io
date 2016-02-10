@@ -6,9 +6,9 @@
     v2.0b1 | 201101 
     NOTE:WORK IN PROGRESS
     USE WITH CAUTION AND TEST WITH ABANDON */
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,500);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,500);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,500);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,600);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,600);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,600);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -75,7 +75,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.3em;
-  color: #656565; }
+  color: #4c4c4c; }
 
 a,
 a:link,
@@ -95,7 +95,7 @@ h1, h2, .text-center {
 
 h1 {
   font-size: 2.2em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.5em;
   color: #d1445f; }
   h1 .title {
     font-size: 4em;
@@ -108,8 +108,12 @@ h2 {
 
 h3 {
   font-size: 1.4em;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
   color: #d1445f; }
+
+h4 {
+  font-size: 1.2em;
+  margin-bottom: 15px; }
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
@@ -119,7 +123,9 @@ p {
 p:last-child {
   margin-bottom: 0; }
 
-p a:link {
+p a:link,
+p a,
+p a:visited {
   text-decoration: underline;
   color: #d1445f; }
 
@@ -127,7 +133,7 @@ p a:hover {
   color: #d1445f; }
 
 strong {
-  font-weight: 500; }
+  font-weight: 600; }
 
 .text-centre {
   text-align: center; }
@@ -149,6 +155,7 @@ blockquote {
   border-left: solid 4px #cecece;
   padding-left: 2em;
   max-width: 620px;
+  margin-top: 1em;
   margin-bottom: 1.4em; }
   blockquote p {
     font-weight: 300;
@@ -243,7 +250,7 @@ header .container-large {
     margin-right: 0; } }
 @media (min-width: 768px) {
   .gutters .col {
-    margin-left: 2%; }
+    margin-left: 4%; }
 
   .gutters .col:first-child {
     margin-left: 0; } }
@@ -313,25 +320,25 @@ header .container-large {
     width: 15.0%; }
 
   .gutters .span_3 {
-    width: 23.5%; }
+    width: 22.0%; }
 
   .gutters .span_4 {
-    width: 32.0%; }
+    width: 30.666666%; }
 
   .gutters .span_5 {
-    width: 40.5%; }
+    width: 39.5%; }
 
   .gutters .span_6 {
-    width: 49.0%; }
+    width: 48.0%; }
 
   .gutters .span_7 {
-    width: 57.5%; }
+    width: 56.5%; }
 
   .gutters .span_8 {
-    width: 66.0%; }
+    width: 65.0%; }
 
   .gutters .span_9 {
-    width: 74.5%; }
+    width: 74.0%; }
 
   .gutters .span_10 {
     width: 83.0%; }
@@ -353,7 +360,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.3em;
-  color: #656565; }
+  color: #4c4c4c; }
 
 a,
 a:link,
@@ -373,7 +380,7 @@ h1, h2, .text-center {
 
 h1 {
   font-size: 2.2em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.5em;
   color: #d1445f; }
   h1 .title {
     font-size: 4em;
@@ -386,8 +393,12 @@ h2 {
 
 h3 {
   font-size: 1.4em;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
   color: #d1445f; }
+
+h4 {
+  font-size: 1.2em;
+  margin-bottom: 15px; }
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
@@ -397,7 +408,9 @@ p {
 p:last-child {
   margin-bottom: 0; }
 
-p a:link {
+p a:link,
+p a,
+p a:visited {
   text-decoration: underline;
   color: #d1445f; }
 
@@ -405,7 +418,7 @@ p a:hover {
   color: #d1445f; }
 
 strong {
-  font-weight: 500; }
+  font-weight: 600; }
 
 .text-centre {
   text-align: center; }
@@ -427,6 +440,7 @@ blockquote {
   border-left: solid 4px #cecece;
   padding-left: 2em;
   max-width: 620px;
+  margin-top: 1em;
   margin-bottom: 1.4em; }
   blockquote p {
     font-weight: 300;
@@ -565,7 +579,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.3em;
-  color: #656565; }
+  color: #4c4c4c; }
 
 a,
 a:link,
@@ -585,7 +599,7 @@ h1, h2, .text-center {
 
 h1 {
   font-size: 2.2em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.5em;
   color: #d1445f; }
   h1 .title {
     font-size: 4em;
@@ -598,8 +612,12 @@ h2 {
 
 h3 {
   font-size: 1.4em;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
   color: #d1445f; }
+
+h4 {
+  font-size: 1.2em;
+  margin-bottom: 15px; }
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
@@ -609,7 +627,9 @@ p {
 p:last-child {
   margin-bottom: 0; }
 
-p a:link {
+p a:link,
+p a,
+p a:visited {
   text-decoration: underline;
   color: #d1445f; }
 
@@ -617,7 +637,7 @@ p a:hover {
   color: #d1445f; }
 
 strong {
-  font-weight: 500; }
+  font-weight: 600; }
 
 .text-centre {
   text-align: center; }
@@ -639,6 +659,7 @@ blockquote {
   border-left: solid 4px #cecece;
   padding-left: 2em;
   max-width: 620px;
+  margin-top: 1em;
   margin-bottom: 1.4em; }
   blockquote p {
     font-weight: 300;
@@ -652,11 +673,53 @@ blockquote {
 @media (min-width: 1000px) {
   blockquote {
     margin-left: -4em; } }
-.blog-header {
-  background-image: url(/images/pattern.png), url(/images/blog-image-colour.jpg);
-  background-repeat: repeat, no-repeat;
-  background-attachment: scroll;
-  background-size: 90px, cover; }
+.post-list h1, .post-list h2, .post-list h3, .post-list p {
+  text-align: left; }
+.post-list h2 {
+  font-size: 1.7em; }
+.post-list p {
+  font-size: 0.95em; }
+.post-list .post-highlight {
+  padding-bottom: 1.5em;
+  border-bottom: solid 1px #eaeaea;
+  margin-bottom: 2em;
+  overflow: hidden;
+  max-height: 500px;
+  opacity: 1;
+  -webkit-transition: opacity 0.35s ease-in, height 0.3s 0.35s, margin 0.3s 0.35s, padding 0.3s 0.35s;
+  transition: opacity 0.35s ease-in, height 0.3s 0.35s, margin 0.3s 0.35s, padding 0.3s 0.35s; }
+  .post-list .post-highlight.hidden {
+    height: 0;
+    padding: 0;
+    margin: 0;
+    border: none;
+    opacity: 0; }
+.post-list .read-more-link {
+  position: relative;
+  margin-left: 0.9em;
+  text-align: left;
+  display: inline;
+  top: 0; }
+  .post-list .read-more-link:before {
+    content: "+ ";
+    bottom: -0.2em;
+    left: -0.9em;
+    position: absolute;
+    text-decoration: none; }
+
+.blog-back-link {
+  padding-top: 1em;
+  font-size: 0.9em;
+  border-top: solid 1px #ccc; }
+  .blog-back-link a, .blog-back-link a:hover, .blog-back-link a:link, .blog-back-link a:visited {
+    color: #cecece;
+    text-decoration: none; }
+
+.tag-box {
+  list-style: disc;
+  margin: 0.5em 0 1em 1.2em; }
+  .tag-box li {
+    margin-bottom: 0.5em; }
 
 time {
   display: block;
@@ -664,6 +727,9 @@ time {
   font-size: 0.9em;
   color: #d1445f;
   margin-bottom: 1em; }
+
+.blog-categories {
+  border-right: solid 1px #ccc; }
 
 /***************   ABOUT ME   ***************/
 .profile-pic {

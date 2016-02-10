@@ -93,3 +93,29 @@ $('.slick-slider').slick({
     centerPadding: '80px',
     variableWidth: true
 });
+
+// Filter blog articles by category
+
+$('#article-category-filter a').click(function(){
+    $('#article-list li').addClass('hidden');
+    
+    var $chosen_category = $(this).attr('href').slice(1);
+    
+    $('#article-list li').each(function(){
+        if ($(this).hasClass($chosen_category)) {
+            $(this).removeClass("hidden");
+        } else {
+            console.log("no class");
+        }
+    });
+});
+
+// Remove certain article categories
+
+$('#article-category-filter li').each(function(){
+    var $category = $(this).find('a').attr('href');
+    
+    if (($category == '#work') || ($category == '#featurework') || ($category == '#blog')) {
+        $(this).hide();
+    }
+})

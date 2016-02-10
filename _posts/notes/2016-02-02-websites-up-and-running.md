@@ -1,10 +1,13 @@
 ---
-title:  "Email Series Part 3 - Websites"
+title:  "Your Digital Presence - Websites"
 date:   2016-02-04 15:46:31 +0800
-categories: start-ups blog
-excerpt: Arguably the most important ********* to get right for any new business, your web presence should put your best foot forward.
+categories: start-ups blog websites
+excerpt: Arguably the most important part of your digital presence, your web presence should put your best foot forward.
 ---
-# Start Up Series Part 3 – Getting a website up and running
+
+### Your Digital Presence Series #1
+
+# Getting a website up and running
 
 ## Website Hosting
 

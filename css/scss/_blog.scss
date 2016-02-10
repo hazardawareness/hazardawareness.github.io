@@ -1,10 +1,71 @@
 @import "fonts";
 
-.blog-header {
-    background-image: url(/images/pattern.png), url(/images/blog-image-colour.jpg) ;
-    background-repeat: repeat, no-repeat;
-    background-attachment: scroll;
-    background-size: 90px, cover;
+.post-list {
+    h1, h2, h3, p {
+        text-align: left;
+    }
+    
+    h2 {
+        font-size: 1.7em;
+    }
+    
+    p {
+        font-size: 0.95em;
+    }
+    
+    .post-highlight {
+        padding-bottom: 1.5em;
+        border-bottom: solid 1px #eaeaea;
+        margin-bottom: 2em;
+        overflow: hidden;
+        max-height: 500px;
+        opacity: 1;
+        transition: opacity 0.35s ease-in, height 0.3s 0.35s, margin 0.3s 0.35s, padding 0.3s 0.35s;
+        
+        &.hidden {
+            height: 0;
+            padding: 0;
+            margin: 0;
+            border: none;
+            opacity: 0;
+        }
+    }
+    
+    .read-more-link {
+        position: relative;
+        margin-left: 0.9em;
+        text-align: left;
+        display: inline;
+        top: 0;
+        
+        &:before {
+            content: "+ ";
+            bottom: -0.2em;
+            left: -0.9em;
+            position: absolute;
+            text-decoration: none;
+        }
+    }
+}
+
+.blog-back-link {
+    padding-top: 1em;
+    font-size: 0.9em;
+    border-top: solid 1px #ccc;
+    
+    a, a:hover, a:link, a:visited {
+        color: #cecece;
+        text-decoration: none;
+    }
+}
+
+.tag-box {
+    list-style: disc;
+    margin: 0.5em 0 1em 1.2em;
+    
+    li {
+        margin-bottom: 0.5em;
+    }
 }
 
 time {
@@ -13,4 +74,8 @@ time {
     font-size: 0.9em;
     color: $secondary-colour;
     margin-bottom: 1em;
+}
+
+.blog-categories {
+    border-right: solid 1px #ccc;
 }
