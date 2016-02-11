@@ -28,7 +28,7 @@ defaults:
     values:
       layout: "work-template"
       permalink: "/work/:title.html"
-      hero_image: "/images/hero-image-3.jpg"
+      heroimage: "/images/hero-image-3.jpg"
   -
     scope:
       path: "_posts/notes"
@@ -36,4 +36,4 @@ defaults:
     values:
       layout: "notes-template"
       permalink: "/notes/:title.html"
-      hero_image: "/images/hero-image-8.jpg"
+      heroimage: "/images/hero-image-8.jpg"

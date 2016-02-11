@@ -19,7 +19,7 @@ permalink: /index.html
     
     <section id="work" class="container-large portfolio">
         <h2>Work</h2>
-        <p class="text-centre">Below are some of my most recent website designs and builds.<br>Click on a project to learn more or view the website.</p>
+        <p class="text-centre container">Below are some of my most recent website designs and builds.<br>Click on a project to learn more or view the website.</p>
         <section class="featured-project-section clr">
             {% for post in site.posts %}
              {% if post.categories contains 'work' %}
@@ -49,27 +49,14 @@ permalink: /index.html
                     <h3>Excelsa Painting</h3>
                      <p class="text-center"><a href="http://excelsapainting.com.au/" target="_blank">Visit Site</a></p>
                 </section>
-            </article>           
+            </article> 
+            
+                     
             
         </section>
         
-       
+       <h4 class="text-centre"><a href="/work/">View all work</a></h4> 
     </section>
-
-   
-    <section class="full-width " >
-          <h3 class="text-centre">More Work</h3>
-          <p class="text-centre">Below are some brands that I have worked with, either creating logos or websites for.</p>
-<ul class="slick-slider more-work-slider">
-<li><img src="/images/kings-bark-thumbs.png" class="portfolio-image" alt=""></li>
-<li><a href="http://myhealthaddiction.com.au" target="_blank"><img src="/images/mha-whey-thumbs.png" class="portfolio-image" alt=""></a></li>
-<li><a href="http://myhealthaddiction.com.au" target="_blank"><img src="/images/mha-thumbs.png" class="portfolio-image" alt=""></a></li>
-<li><a href="http://excelsapainting.com.au" target="_blank"><img src="/images/excelsa-painting-thumbs.png" class="portfolio-image" alt=""></a></li>
-<li><img src="/images/tilerman-thumbs.png" class="portfolio-image" alt=""></li>
-<li><a href="http://www.greenhorizons.com.au" target="_blank"><img src="/images/green-horizons-thumbs.png" class="portfolio-image" alt=""></a></li>
-<li><img src="/images/hazardawareness-thumbs.png" class="portfolio-image" alt=""></li>
-<li><a href="http://lifecykel.com.au" target="_blank"><img src="/images/lifecykel-thumbs.png" class="portfolio-image" alt=""></a></li>
-</u>
 
         </section>
     <section class="container">
@@ -77,5 +64,14 @@ permalink: /index.html
             <h2>Services</h2>
             <p>Working with other local service providers, Hazardawarness can provide a complete solution tailormade to suit what your business needs.</p>
              <p><a href="services.html">View the full list of services here.</a> </p>
+        </article>
+    </section>
+    
+   
+      <section class="container">
+        <article class="text-center">
+            <h2>Notes</h2>
+            <p>Various articles and information to help clients, start-ups and small business owners.</p>
+             <p><a href="/notes/">View notes</a> </p>
         </article>
     </section>

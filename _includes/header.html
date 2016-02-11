@@ -1,8 +1,9 @@
-{% if page.hero_image %}
-   <header class="main-header home-header services" style="background-image: url( {{ page.hero_image | prepend: site.baseurl  }} );">
+{% if page.heroimage %}
+   <header class="main-header home-header services" style="background-image: url( {{ page.heroimage | prepend: site.baseurl  }} );">
 {% else %}
     <header class="main-header home-header services header-hero-2">
 {% endif %}
+
     
 {% include nav.html %}
         

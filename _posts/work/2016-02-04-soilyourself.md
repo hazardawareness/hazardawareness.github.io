@@ -1,5 +1,5 @@
 ---
-hero_image: /images/hero-image-3.jpg
+heroimage: /images/hero-image-3.jpg
 title:  "Soil Yourself"
 categories: work
 header_intro: Project – Soil Yourself

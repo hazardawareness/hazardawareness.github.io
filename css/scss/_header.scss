@@ -96,6 +96,10 @@ background-image: url(/images/home-page-image-2-colour.jpg);
     &.show-menu {
         display: block;
      }
+    
+    &.menu-padding li {
+        margin: 5em auto;
+    }
 }
 
 .menu-click-area {
@@ -133,4 +137,26 @@ background-image: url(/images/home-page-image-2-colour.jpg);
 
 .nav-dark {
     color: $brand-colour;
+}
+
+@media (max-width: 700px) {
+    .email-contact {
+        
+        a {
+            display: block;
+            text-indent: -9999px;
+        }
+    }
+    
+    .main-nav {
+        
+        li {
+            font-size: 1.5em;
+            margin: 1.3em auto;
+        }
+    }
+    
+    .home-main-intro {
+        padding: 4em 1em 1.4em;
+    }
 }

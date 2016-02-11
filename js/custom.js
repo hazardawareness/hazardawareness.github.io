@@ -35,7 +35,7 @@ var readLessClicked = function(a) {
         a.remove();
 };
 
-$('body').on('click', ".read-more-link", function(){
+$('body').on('click', "#about-me .read-more-link", function(){
     if ($(this).parent().hasClass('project')) 
     {
         var thisProject = $(this).parent();
@@ -75,11 +75,11 @@ $(window).on("scroll touchmove", function () {
 // Show / Hide Menu
 
 $('#show-menu').on("click", function() {
-    $('#navigation').fadeIn();
+    $('#navigation').fadeIn().removeClass('menu-padding');
 });
 
 $('.hide-menu').on("click", function() {
-    $('#navigation').fadeOut();
+    $('#navigation').fadeOut().addClass('menu-padding');
 })
 
 
