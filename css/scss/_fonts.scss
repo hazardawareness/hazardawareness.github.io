@@ -20,7 +20,7 @@ body {
     font-family: $website-font-stack;
     font-weight: 200;
     font-size: 17px;
-    line-height: 1.45em;
+    line-height: 1.65em;
     color: #4c4c4c;
 }
 
@@ -78,7 +78,7 @@ p {
     // font-family: 'Merriweather', serif;
     font-family: $website-font-stack;
     margin-bottom: 1.4em;
-    line-height: 1.5em;
+    line-height: 1.7em;
     max-width: 48em;
 }
 
@@ -139,6 +139,14 @@ blockquote {
         color: $secondary-colour;
         font-size: 0.9em;
     }
+}
+
+hr {
+    border: none;
+    max-width: 200px;
+    background-color: #e3e3e3;
+    height: 2px;
+    margin: 30px auto;
 }
 
 @media (min-width: 1000px) {

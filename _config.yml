@@ -13,7 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hazardawareness.com.au" # the base hostname & protocol for your site
+url: https://hazardawareness.com.au
+enforce_ssl: hazardawareness.com.au
 twitter_username: paddy_hazard
 github_username:  hazardawareness
 
@@ -32,6 +33,14 @@ defaults:
   -
     scope:
       path: "_posts/notes"
+      
+    values:
+      layout: "notes-template"
+      permalink: "/notes/:title.html"
+      heroimage: "/images/hero-image-8.jpg"
+  -
+    scope:
+      path: "_drafts"
       
     values:
       layout: "notes-template"

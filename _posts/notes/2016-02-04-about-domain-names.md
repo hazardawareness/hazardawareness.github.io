@@ -5,15 +5,17 @@ categories: start-ups blog domain-names
 excerpt: If you are still in the planning stages of starting your own business then you know you'll need a website, emails another standard tech services. This three-part series breaks down exactly <strong>what</strong> you need, <strong>why</strong> you need it, <strong>where</strong> to get it and <strong>how</strong> much it should cost. 
 ---
 
-### Your Digital Presence Series #1
-
 ## Introduction
 
 If you are still in the planning stages of starting your own business then you know you'll need a website, emails another standard tech services. This three-part series her breaks down exactly **what** you need, **why** you need it, **where** to get it and **how** much it should cost. 
 
 **Part 1 – About domain names**.
 
+---
+
 # www.whatisadomainname.com.au
+
+---
 
 ## Domain names explained
 

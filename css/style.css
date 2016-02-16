@@ -74,7 +74,7 @@ body {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   font-weight: 200;
   font-size: 17px;
-  line-height: 1.45em;
+  line-height: 1.65em;
   color: #4c4c4c; }
 
 a,
@@ -118,7 +118,7 @@ h4 {
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   margin-bottom: 1.4em;
-  line-height: 1.5em;
+  line-height: 1.7em;
   max-width: 48em; }
 
 p:last-child {
@@ -167,6 +167,13 @@ blockquote {
     color: #d1445f;
     font-size: 0.9em; }
 
+hr {
+  border: none;
+  max-width: 200px;
+  background-color: #e3e3e3;
+  height: 2px;
+  margin: 30px auto; }
+
 @media (min-width: 1000px) {
   blockquote {
     margin-left: -4em; } }
@@ -204,7 +211,7 @@ section:after {
 .container,
 .container-large {
   width: 100%;
-  max-width: 690px;
+  max-width: 780px;
   margin: 0 auto 50px;
   padding: 0 20px; }
 
@@ -374,7 +381,7 @@ body {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   font-weight: 200;
   font-size: 17px;
-  line-height: 1.45em;
+  line-height: 1.65em;
   color: #4c4c4c; }
 
 a,
@@ -418,7 +425,7 @@ h4 {
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   margin-bottom: 1.4em;
-  line-height: 1.5em;
+  line-height: 1.7em;
   max-width: 48em; }
 
 p:last-child {
@@ -466,6 +473,13 @@ blockquote {
   blockquote footer {
     color: #d1445f;
     font-size: 0.9em; }
+
+hr {
+  border: none;
+  max-width: 200px;
+  background-color: #e3e3e3;
+  height: 2px;
+  margin: 30px auto; }
 
 @media (min-width: 1000px) {
   blockquote {
@@ -621,7 +635,7 @@ body {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   font-weight: 200;
   font-size: 17px;
-  line-height: 1.45em;
+  line-height: 1.65em;
   color: #4c4c4c; }
 
 a,
@@ -665,7 +679,7 @@ h4 {
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
   margin-bottom: 1.4em;
-  line-height: 1.5em;
+  line-height: 1.7em;
   max-width: 48em; }
 
 p:last-child {
@@ -713,6 +727,13 @@ blockquote {
   blockquote footer {
     color: #d1445f;
     font-size: 0.9em; }
+
+hr {
+  border: none;
+  max-width: 200px;
+  background-color: #e3e3e3;
+  height: 2px;
+  margin: 30px auto; }
 
 @media (min-width: 1000px) {
   blockquote {
@@ -985,5 +1006,4 @@ input[type="submit"]:focus {
   .slick-arrow:hover.slick-next {
     right: 0;
     -webkit-transform: rotate(180deg);
-        -ms-transform: rotate(180deg);
             transform: rotate(180deg); }
