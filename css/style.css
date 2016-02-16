@@ -117,7 +117,7 @@ h4 {
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
-  margin-bottom: 1.4em;
+  margin: 0 auto 1.4em;
   line-height: 1.7em;
   max-width: 48em; }
 
@@ -424,7 +424,7 @@ h4 {
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
-  margin-bottom: 1.4em;
+  margin: 0 auto 1.4em;
   line-height: 1.7em;
   max-width: 48em; }
 
@@ -678,7 +678,7 @@ h4 {
 
 p {
   font-family: "TheSansMono", "Roboto Mono", monospace;
-  margin-bottom: 1.4em;
+  margin: 0 auto 1.4em;
   line-height: 1.7em;
   max-width: 48em; }
 
