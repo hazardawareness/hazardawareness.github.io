@@ -77,9 +77,14 @@ h4 {
 p {
     // font-family: 'Merriweather', serif;
     font-family: $website-font-stack;
-    margin: 0 auto 1.4em;
+    margin-bottom: 1.4em;
     line-height: 1.7em;
     max-width: 48em;
+    
+    &.text-centre {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 p:last-child {
